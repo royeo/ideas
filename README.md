@@ -6,6 +6,6 @@
 
 	* google translate cli
 
-		* translate word and file
-
 	* pdf to word
+	
+	* generate sequelize model file

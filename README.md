@@ -9,3 +9,7 @@
 	* pdf to word
 	
 	* generate sequelize model file
+
+	* grasp crane machine cli
+
+	* wechat applet - every day todo

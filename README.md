@@ -4,12 +4,14 @@
 
 *   [Sleeping(:sleeping:)](#sleepingsleeping)
 
-	* google translate cli
+	* npm - google translate cli
 
-	* pdf to word
+	* npm - pdf to word
 	
-	* generate sequelize model file
+	* npm - generate sequelize model file
 
-	* grasp crane machine cli
+	* npm - grasp crane machine cli
+	
+	* npm - http retry
 
 	* wechat applet - every day todo

@@ -1,6 +1,7 @@
 
 *   [Done(:thumbsup:)](#donethumbsup)
 
+	* wechat applet - where is the convenience store
 
 *   [Sleeping(:sleeping:)](#sleepingsleeping)
 

@@ -1,7 +1,7 @@
 
 *   [Done(:thumbsup:)](#donethumbsup)
 
-	* wechat applet - where is the convenience store
+	* [wechat applet - where is the convenience store](https://github.com/royeo/weapp-store)
 
 *   [Sleeping(:sleeping:)](#sleepingsleeping)
 

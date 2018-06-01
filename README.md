@@ -7,10 +7,10 @@
 
 *   [Sleeping(:sleeping:)](#sleepingsleeping)
 
+	* npm - nvm auto switch
+
 	* npm - google translate cli
 	
-	* npm - generate sequelize model file
-
 	* npm - grasp crane machine cli
 	
 	* npm - http retry

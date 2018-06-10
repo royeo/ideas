@@ -13,6 +13,4 @@
 	
 	* npm - grasp crane machine cli
 	
-	* npm - http retry
-
 	* wechat applet - every day todo

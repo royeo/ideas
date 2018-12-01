@@ -5,11 +5,11 @@
 	
 	* [npm package - express-last-middleware](https://github.com/royeo/express-last-middleware)
 
+	* [golang package - dingrobot](https://github.com/royeo/dingrobot)
+
 *   [Sleeping(:sleeping:)](#sleepingsleeping)
 
 	* npm - nvm auto switch
-
-	* npm - google translate cli
 	
 	* npm - grasp crane machine cli
 	

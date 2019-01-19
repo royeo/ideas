@@ -15,4 +15,4 @@
 	
 	* wechat applet - every day todo
 
-	* go package - Find the modified go code in the git commit and the code that depends on them
+	* go package - find the modified go code in the git commit and the code that depends on them

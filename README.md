@@ -16,3 +16,6 @@
 	* wechat applet - every day todo
 
 	* go package - find the modified go code in the git commit and the code that depends on them
+	
+	* go package - interactive git switch branch
+

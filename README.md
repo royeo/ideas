@@ -19,3 +19,5 @@
 	
 	* go package - interactive git switch branch
 
+        * go package - programmer-qiuqian 
+

@@ -7,6 +7,8 @@
 
 	* [go package - dingrobot](https://github.com/royeo/dingrobot)
 
+    * [tools - interactive git switch branch](https://github.com/royeo/git-checkout-branch)
+
 *   [Sleeping(:sleeping:)](#sleepingsleeping)
 
 	* npm - nvm auto switch
@@ -17,7 +19,5 @@
 
 	* go package - find the modified go code in the git commit and the code that depends on them
 	
-	* go package - interactive git switch branch
-
-        * go package - programmer-qiuqian 
+    * go package - programmer-qiuqian 
 
